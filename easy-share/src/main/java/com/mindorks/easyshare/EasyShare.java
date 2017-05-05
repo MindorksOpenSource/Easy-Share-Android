@@ -14,4 +14,18 @@
  *    limitations under the License.
  */
 
-include ':app', ':easy-share'
+package com.mindorks.easyshare;
+
+/**
+ * Created by amitshekhar on 05/05/17.
+ */
+
+public class EasyShare {
+
+    /**
+     * private constructor to prevent instantiation of this class
+     */
+    private EasyShare() {
+    }
+
+}
